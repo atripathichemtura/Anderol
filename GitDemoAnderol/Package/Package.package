@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="5df95881-aff3-4a78-a173-2f410b9e9682" 
+        solutionId="5df95881-aff3-4a78-a173-2f410b9e9682" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="GitDemoAnderol"
+        sharePointProductVersion="15.0">
+</package>
