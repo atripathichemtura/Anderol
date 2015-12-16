@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package dslVersion="1.0.0.0" 
-        Id="5df95881-aff3-4a78-a173-2f410b9e9682" 
-        solutionId="5df95881-aff3-4a78-a173-2f410b9e9682" 
-        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
-        name="GitDemoAnderol"
-        sharePointProductVersion="15.0">
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5df95881-aff3-4a78-a173-2f410b9e9682" solutionId="5df95881-aff3-4a78-a173-2f410b9e9682" resetWebServer="false" sharePointProductVersion="15.0" name="GitDemoAnderol" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="b62a9ddc-5b45-4f7c-82a8-e7009e2486e3" />
+  </features>
 </package>
